@@ -2,3 +2,5 @@
 *.pth
 *.pyc
 *.npy
+Multi AI Agent Systems with crewAI/3-Tools for a customer outreach campaign/.env.local
+Multi AI Agent Systems with crewAI/7-Build a crew to trailor job applications/db/chroma.sqlite3
